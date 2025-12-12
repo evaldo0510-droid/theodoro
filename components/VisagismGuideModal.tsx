@@ -34,14 +34,14 @@ const FACE_SHAPES: Record<FaceShapeKey, {
     svgPath: <ellipse cx="50" cy="50" rx="30" ry="45" stroke="currentColor" strokeWidth="2" fill="none" />,
     recommendations: {
       'Masculino': {
-        hair: "Versátil. Quase todos os cortes funcionam (Undercut, Fade, Longo).",
-        beard: "Rosto limpo ou barba desenhada. Evite volumes laterais excessivos.",
-        accessories: "Óculos de qualquer formato, preferindo proporção média."
+        hair: "Priorize volume no topo (Quiff, Pompadour) com laterais baixas para alongar a silhueta verticalmente.",
+        beard: "Cavanhaques levemente alongados ou barba desenhada focada no queixo. Evite costeletas largas.",
+        accessories: "Óculos de qualquer formato, mas modelos 'Aviador' reforçam a linha vertical."
       },
       'Feminino': {
-        hair: "Versátil. Longos, curtos, pixie, camadas. Cortes que emolduram.",
-        makeup: "Natural. Contorno mínimo, apenas para realçar traços.",
-        accessories: "Brincos e óculos de qualquer formato. Divirta-se com tendências."
+        hair: "Cortes longos em camadas verticais ou 'Long Bob' assimétrico. Volume no topo da cabeça favorece o alongamento.",
+        makeup: "Ilumine a zona T (centro da testa e queixo) para verticalizar o olhar. Contorno suave.",
+        accessories: "Brincos longos e lineares. Colares em 'V' aprofundam o alongamento do pescoço."
       }
     }
   },
